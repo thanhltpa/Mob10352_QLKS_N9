@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+E:\Mob10352_QLKS_N9\.metadata\.plugins\org.eclipse.jdt.core
-1921712544.index
-3549274376.index
